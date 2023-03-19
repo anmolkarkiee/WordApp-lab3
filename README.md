@@ -1,2 +1,1 @@
-![gif](WordApp.gif)
-![My Image](WordApp.png)
+![gif](WordApps.gif)
