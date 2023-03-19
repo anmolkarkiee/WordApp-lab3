@@ -1,1 +1,1 @@
-![gif](AppWord.gif)
+![gif](AppWordProj.gif)
